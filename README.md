@@ -109,7 +109,7 @@ Other models like Linear Regression, SVM, Random Forest, Decision Tree, GBT, KNN
 
 👩‍💻 Author
 Name: AR Keerthana
-🔗 GitHub Profile
+🔗 https://github.com/keerthana777z
 
 
 
